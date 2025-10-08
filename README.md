@@ -7,7 +7,6 @@
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
     <li> 🎓 정보보호학과 2학년 재학</li>
     <li> 💻 Spring Boot 기반 백엔드 개발</li>
-    <li> 💡 새로운 기술을 배우는 것을 좋아합니다 </li> 
 </div> 
 </div>
 
